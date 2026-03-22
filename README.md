@@ -2,7 +2,7 @@
 
 Computer Engineering student at Miramar College in San Diego, transferring Fall 2027.
 
-Currently building an autonomous go-kart with the Mesa College Full Self-Driving Club for the Autonomous Kart Series competition. I work across the full stack — from wiring GPS modules and configuring ArduRover to writing Python control scripts on a Raspberry Pi 5.
+Currently building an autonomous go-kart with the Mesa College Full Self-Driving Club for the Autonomous Kart Series competition. I work across the full stack, from wiring GPS modules and configuring ArduRover to writing Python control scripts on a Raspberry Pi 5.
 
 ## What I'm working on
 - Autonomous go-kart navigation (Cube Orange+, ArduRover, MAVLink)
