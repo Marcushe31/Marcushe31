@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Marcus
 
-<!--
-**Marcushe31/Marcushe31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Miramar College in San Diego, transferring Fall 2027.
 
-Here are some ideas to get you started:
+Currently building an autonomous go-kart with the Mesa College Full Self-Driving Club for the Autonomous Kart Series competition. I work across the full stack — from wiring GPS modules and configuring ArduRover to writing Python control scripts on a Raspberry Pi 5.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Autonomous go-kart navigation (Cube Orange+, ArduRover, MAVLink)
+- Java language model using bigrams and hash tables (CISC 191 Honors)
+- Bare-metal C and embedded systems on STM32
+
+## Tools & Languages
+C/C++ · Java · Python · Arduino · STM32 · ArduRover · MAVLink · Git
